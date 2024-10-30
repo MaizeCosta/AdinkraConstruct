@@ -1,0 +1,42 @@
+{
+	"name": "Sankofa - A (In)Sustentável Vida de Adinkra",
+	"short_name": "Sankofa - A (In)Sustentável Vida de Adinkra",
+	"description": "Adinkra, após ler um livro sobre como o mundo era antes e como é após a existência da humanidade, decide que deve mudá-lo. Embarque nesta aventura de conhecimento com Adinkra, acompanhado de seus novos companheiros, Sr. Garrafa Plástica, Sr. Latinha e a Sra. Garrafa de Vidro.",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"screenshots": []
+}
